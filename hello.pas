@@ -1,6 +1,8 @@
 Program hello;
+// First Github program
 
 Begin
-  Writeln('Hello World !');
+// make the statement
+  Writeln('Hello World !!');
   End.
   

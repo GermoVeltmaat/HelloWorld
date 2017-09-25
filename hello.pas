@@ -4,5 +4,7 @@ Program hello;
 Begin
 // make the statement
   Writeln('Hello World !!');
+// extra
+  Writeln('This is fun ...');
   End.
   
